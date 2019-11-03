@@ -11,7 +11,7 @@
 
 4. 在打开的的命令行工具中安装cuda和cudn以及pytorch
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/windows.png)
+![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/windows.png)
 
 * 更换清华大学镜像
 
@@ -22,9 +22,9 @@ conda config --set show_channel_urls yes
 ```
 * 配置完成后需要重新打开命令行
 
-* 前往[pytorch官网](https://pytorch.org/get-started/locally/ "标题")选择对应的环境
+* 前往[pytorch官网](http://pytorch.org/get-started/locally/ "标题")选择对应的环境
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/statement/pytorch.png)
+![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/statement/pytorch.png)
 
 * 比如我的是
 ```
