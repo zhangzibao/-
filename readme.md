@@ -7,11 +7,11 @@
 
 3. open in terminal
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/terminal.png)
+![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/terminal.png)
 
 4. 在打开的的命令行工具中安装cuda和cudn以及pytorch
 
-![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/windows.png)
+![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/windows.png)
 
 * 更换清华大学镜像
 
@@ -24,7 +24,7 @@ conda config --set show_channel_urls yes
 
 * 前往[pytorch官网](http://pytorch.org/get-started/locally/ "标题")选择对应的环境
 
-![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/statement/pytorch.png)
+![avatar](http://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/statement/pytorch.png)
 
 * 比如我的是
 ```
@@ -45,8 +45,8 @@ pip intall [the lack packages]
 ## 运行结果截图
 1. 训练过程的部分结果
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/statement/out1.png)
+![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/statement/out1.png)
 
 2. 测试自己画的数字
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/statement/mytest.png)
+![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/statement/mytest.png)
