@@ -3,15 +3,15 @@
 1. 从官网下载并安装anaconda3
 2. 从anaconda navigator创建一个新的基于python3.7的环境
 
-![](/statement/anaconda3.png)
+![](./statement/anaconda3.png)
 
 3. open in terminal
 
-![](/statement/terminal.png)
+![](./statement/terminal.png)
 
 4. 在打开的的命令行工具中安装cuda和cudn以及pytorch
 
-![](/statement/windows.png)
+![](./statement/windows.png)
 
 * 更换清华大学镜像
 
