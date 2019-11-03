@@ -3,7 +3,7 @@
 1. 从官网下载并安装anaconda3
 2. 从anaconda navigator创建一个新的基于python3.7的环境
 
-![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/blob/master/statement/anaconda3.png)
+![avatar](https://github.com/zhangzibao/CNN_Recognize_HandWriteNumber/edit/master/statement/anaconda3.png)
 
 3. open in terminal
 
