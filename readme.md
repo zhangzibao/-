@@ -3,15 +3,15 @@
 1. 从官网下载并安装anaconda3
 2. 从anaconda navigator创建一个新的基于python3.7的环境
 
-![](statement/anaconda3.png)
+![](../statement/anaconda3.png)
 
 3. open in terminal
 
-![](statement/terminal.png)
+![](../statement/terminal.png)
 
 4. 在打开的的命令行工具中安装cuda和cudn以及pytorch
 
-![](statement/windows.png)
+![](../statement/windows.png)
 
 * 更换清华大学镜像
 
@@ -24,7 +24,7 @@ conda config --set show_channel_urls yes
 
 * 前往[pytorch官网](https://pytorch.org/get-started/locally/ "标题")选择对应的环境
 
-![](statement/pytorch.png)
+![](../statement/pytorch.png)
 
 * 比如我的是
 ```
@@ -45,8 +45,8 @@ pip intall [the lack packages]
 ## 运行结果截图
 1. 训练过程的部分结果
 
-![](statement/out1.png)
+![](../statement/out1.png)
 
 2. 测试自己画的数字
 
-![](statement/mytest.png)
+![](../statement/mytest.png)
